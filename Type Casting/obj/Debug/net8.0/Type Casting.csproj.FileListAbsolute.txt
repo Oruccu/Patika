@@ -1,0 +1,15 @@
+/Users/aysenuroruccu/Desktop/Patika/Type Casting/bin/Debug/net8.0/Type Casting
+/Users/aysenuroruccu/Desktop/Patika/Type Casting/bin/Debug/net8.0/Type Casting.deps.json
+/Users/aysenuroruccu/Desktop/Patika/Type Casting/bin/Debug/net8.0/Type Casting.runtimeconfig.json
+/Users/aysenuroruccu/Desktop/Patika/Type Casting/bin/Debug/net8.0/Type Casting.dll
+/Users/aysenuroruccu/Desktop/Patika/Type Casting/bin/Debug/net8.0/Type Casting.pdb
+/Users/aysenuroruccu/Desktop/Patika/Type Casting/obj/Debug/net8.0/Type Casting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuroruccu/Desktop/Patika/Type Casting/obj/Debug/net8.0/Type Casting.AssemblyInfoInputs.cache
+/Users/aysenuroruccu/Desktop/Patika/Type Casting/obj/Debug/net8.0/Type Casting.AssemblyInfo.cs
+/Users/aysenuroruccu/Desktop/Patika/Type Casting/obj/Debug/net8.0/Type Casting.csproj.CoreCompileInputs.cache
+/Users/aysenuroruccu/Desktop/Patika/Type Casting/obj/Debug/net8.0/Type Casting.sourcelink.json
+/Users/aysenuroruccu/Desktop/Patika/Type Casting/obj/Debug/net8.0/Type Casting.dll
+/Users/aysenuroruccu/Desktop/Patika/Type Casting/obj/Debug/net8.0/refint/Type Casting.dll
+/Users/aysenuroruccu/Desktop/Patika/Type Casting/obj/Debug/net8.0/Type Casting.pdb
+/Users/aysenuroruccu/Desktop/Patika/Type Casting/obj/Debug/net8.0/Type Casting.genruntimeconfig.cache
+/Users/aysenuroruccu/Desktop/Patika/Type Casting/obj/Debug/net8.0/ref/Type Casting.dll
