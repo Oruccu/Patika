@@ -1,0 +1,15 @@
+/Users/aysenuroruccu/Desktop/Patika/Operators/bin/Debug/net8.0/Operators
+/Users/aysenuroruccu/Desktop/Patika/Operators/bin/Debug/net8.0/Operators.deps.json
+/Users/aysenuroruccu/Desktop/Patika/Operators/bin/Debug/net8.0/Operators.runtimeconfig.json
+/Users/aysenuroruccu/Desktop/Patika/Operators/bin/Debug/net8.0/Operators.dll
+/Users/aysenuroruccu/Desktop/Patika/Operators/bin/Debug/net8.0/Operators.pdb
+/Users/aysenuroruccu/Desktop/Patika/Operators/obj/Debug/net8.0/Operators.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuroruccu/Desktop/Patika/Operators/obj/Debug/net8.0/Operators.AssemblyInfoInputs.cache
+/Users/aysenuroruccu/Desktop/Patika/Operators/obj/Debug/net8.0/Operators.AssemblyInfo.cs
+/Users/aysenuroruccu/Desktop/Patika/Operators/obj/Debug/net8.0/Operators.csproj.CoreCompileInputs.cache
+/Users/aysenuroruccu/Desktop/Patika/Operators/obj/Debug/net8.0/Operators.sourcelink.json
+/Users/aysenuroruccu/Desktop/Patika/Operators/obj/Debug/net8.0/Operators.dll
+/Users/aysenuroruccu/Desktop/Patika/Operators/obj/Debug/net8.0/refint/Operators.dll
+/Users/aysenuroruccu/Desktop/Patika/Operators/obj/Debug/net8.0/Operators.pdb
+/Users/aysenuroruccu/Desktop/Patika/Operators/obj/Debug/net8.0/Operators.genruntimeconfig.cache
+/Users/aysenuroruccu/Desktop/Patika/Operators/obj/Debug/net8.0/ref/Operators.dll
