@@ -1,0 +1,15 @@
+/Users/aysenuroruccu/Desktop/Patika/Variables/bin/Debug/net8.0/Variables
+/Users/aysenuroruccu/Desktop/Patika/Variables/bin/Debug/net8.0/Variables.deps.json
+/Users/aysenuroruccu/Desktop/Patika/Variables/bin/Debug/net8.0/Variables.runtimeconfig.json
+/Users/aysenuroruccu/Desktop/Patika/Variables/bin/Debug/net8.0/Variables.dll
+/Users/aysenuroruccu/Desktop/Patika/Variables/bin/Debug/net8.0/Variables.pdb
+/Users/aysenuroruccu/Desktop/Patika/Variables/obj/Debug/net8.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuroruccu/Desktop/Patika/Variables/obj/Debug/net8.0/Variables.AssemblyInfoInputs.cache
+/Users/aysenuroruccu/Desktop/Patika/Variables/obj/Debug/net8.0/Variables.AssemblyInfo.cs
+/Users/aysenuroruccu/Desktop/Patika/Variables/obj/Debug/net8.0/Variables.csproj.CoreCompileInputs.cache
+/Users/aysenuroruccu/Desktop/Patika/Variables/obj/Debug/net8.0/Variables.sourcelink.json
+/Users/aysenuroruccu/Desktop/Patika/Variables/obj/Debug/net8.0/Variables.dll
+/Users/aysenuroruccu/Desktop/Patika/Variables/obj/Debug/net8.0/refint/Variables.dll
+/Users/aysenuroruccu/Desktop/Patika/Variables/obj/Debug/net8.0/Variables.pdb
+/Users/aysenuroruccu/Desktop/Patika/Variables/obj/Debug/net8.0/Variables.genruntimeconfig.cache
+/Users/aysenuroruccu/Desktop/Patika/Variables/obj/Debug/net8.0/ref/Variables.dll
