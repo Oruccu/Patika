@@ -1,0 +1,15 @@
+/Users/aysenuroruccu/Desktop/Patika/Error Management/bin/Debug/net8.0/Error Management
+/Users/aysenuroruccu/Desktop/Patika/Error Management/bin/Debug/net8.0/Error Management.deps.json
+/Users/aysenuroruccu/Desktop/Patika/Error Management/bin/Debug/net8.0/Error Management.runtimeconfig.json
+/Users/aysenuroruccu/Desktop/Patika/Error Management/bin/Debug/net8.0/Error Management.dll
+/Users/aysenuroruccu/Desktop/Patika/Error Management/bin/Debug/net8.0/Error Management.pdb
+/Users/aysenuroruccu/Desktop/Patika/Error Management/obj/Debug/net8.0/Error Management.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aysenuroruccu/Desktop/Patika/Error Management/obj/Debug/net8.0/Error Management.AssemblyInfoInputs.cache
+/Users/aysenuroruccu/Desktop/Patika/Error Management/obj/Debug/net8.0/Error Management.AssemblyInfo.cs
+/Users/aysenuroruccu/Desktop/Patika/Error Management/obj/Debug/net8.0/Error Management.csproj.CoreCompileInputs.cache
+/Users/aysenuroruccu/Desktop/Patika/Error Management/obj/Debug/net8.0/Error Management.sourcelink.json
+/Users/aysenuroruccu/Desktop/Patika/Error Management/obj/Debug/net8.0/Error Management.dll
+/Users/aysenuroruccu/Desktop/Patika/Error Management/obj/Debug/net8.0/refint/Error Management.dll
+/Users/aysenuroruccu/Desktop/Patika/Error Management/obj/Debug/net8.0/Error Management.pdb
+/Users/aysenuroruccu/Desktop/Patika/Error Management/obj/Debug/net8.0/Error Management.genruntimeconfig.cache
+/Users/aysenuroruccu/Desktop/Patika/Error Management/obj/Debug/net8.0/ref/Error Management.dll
